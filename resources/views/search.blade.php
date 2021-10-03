@@ -8,6 +8,7 @@ body {
     background: #536DFE !important
 }
 
+
 .search {
     margin-bottom: auto;
     margin-top: 200px;
